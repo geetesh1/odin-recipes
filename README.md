@@ -1,1 +1,3 @@
-# odin-recipes
+Welcome to the Odin Recipes project! In this project, we aim to create a simple and elegant website that will host a collection of delicious recipes. The website will consist of a main index page that serves as a hub for our culinary creations, offering links to a few carefully curated recipes that users can explore and enjoy.
+
+The Odin Recipes project consists of a single HTML file and related assets, focusing on the fundamental aspects of HTML. The website will serve as a hub for our culinary creations, featuring links to a few well-loved recipes. We will keep the design minimal to emphasize the core HTML concepts and ensure the website is easy to understand and implement.
